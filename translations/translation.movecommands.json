@@ -1,0 +1,32 @@
+{
+	"NoAcces": {
+		"en": "{lime}[Swiftly] {default}You don't have {lime}permission {default}to use this command."
+	},
+    "PlayerNotFound": {
+		"en": "{lime}[Swiftly] {default}Player couldn't be found."
+	},
+    "PlayerAlreadySPEC": {
+		"en": "{lime}[Swiftly] %s {default}is already at {lime}spectators{default}."
+	},
+    "MovedSPEC": {
+		"en": "{lime}[Swiftly] %s {default} has been moved to {lime}spectators {default}by {lime}%s{default.}"
+	},
+	"PlayerAlreadyT": {
+		"en": "{lime}[Swiftly] %s {default}is already at {lime}terrorists{default}."
+	},
+    "MovedT": {
+		"en": "{lime}[Swiftly] %s {default} has been moved to {lime}terrorists {default}by {lime}%s{default}."
+	},
+	"PlayerAlreadyCT": {
+		"en": "{lime}[Swiftly] %s {default}is already at {lime}counter-terrorists{default}."
+	},
+    "MovedCT": {
+		"en": "{lime}[Swiftly] %s {default} has been moved to {lime}counter-terrorists {default}by {lime}%s{default}."
+	},
+	"PlayerAlreadyAFK": {
+		"en": "{lime}[Swiftly] {default}You are aleardy at {lime}spectators{default}."
+	},
+	"MovedAFK": {
+		"en": "{lime}[Swiftly] %s {default}is now {lime}AFK{default}."
+	}
+}
