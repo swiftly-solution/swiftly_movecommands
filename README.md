@@ -6,7 +6,7 @@
   <h3 align="center">[Swiftly] Move Commands</h3>
 
   <p align="center">
-    A plugin for Swiftly that permits the admins to move players at another teams.
+    A plugin for Swiftly that adds the possibility for admins to move other players at another teams.
     <br/>
   </p>
 </p>
