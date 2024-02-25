@@ -31,11 +31,14 @@
 3. Go in `addons/swiftly/translations/translation.movecommands.json` and modify the translation as you wish.
 4. Execute `sw translations reload` command to reload the translations.
 
-### Commands 🎲
+### Admin Commands 🎲
 - `sw_t <player>` - Move a player to Terrorists team.
 - `sw_ct <player>` - Move a player to Counter-Terrorists team.
 - `sw_spec <player>` - Move a player to Spectators team.
-- `sw_afk` - Move the player to Spectators team. (can be used by the players too)
+### Player Commands 🍀
+- `sw_afk` - Move to SPEC (go afk).
+- `sw_ct` - Move to Counter-Terrorists
+- `sw_t` - Move to Terrorists
 
 ### Creating A Pull Request 😃
 
