@@ -23,10 +23,22 @@
     "MovedCT": {
 		"en": "{lime}[Swiftly] %s {default} has been moved to {lime}counter-terrorists {default}by {lime}%s{default}."
 	},
-	"PlayerAlreadyAFK": {
+	"YouAlreadyAFK": {
 		"en": "{lime}[Swiftly] {default}You are aleardy at {lime}spectators{default}."
 	},
-	"MovedAFK": {
+	"YouMovedAFK": {
 		"en": "{lime}[Swiftly] %s {default}is now {lime}AFK{default}."
+	},
+	"YouAlreadyCT": {
+		"en": "{lime}[Swiftly] {default}You are aleardy at {lime}counter-terorists{default}."
+	},
+	"YouMovedCT": {
+		"en": "{lime}[Swiftly] %s {default}has switched to {lime}counter-terorists{default}."
+	},
+	"YouAlreadyT": {
+		"en": "{lime}[Swiftly] {default}You are aleardy at {lime}terorists{default}."
+	},
+	"YouMovedT": {
+		"en": "{lime}[Swiftly] %s {default}has switched to {lime}terorists{default}."
 	}
 }
