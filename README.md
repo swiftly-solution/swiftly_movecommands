@@ -37,8 +37,8 @@
 - `sw_spec <player>` - Move a player to Spectators team.
 ### Player Commands 🍀
 - `sw_afk` - Move to SPEC (go afk).
-- `sw_ct` - Move to Counter-Terrorists.
-- `sw_t` - Move to Terrorists.
+- `sw_joinct` - Move to Counter-Terrorists.
+- `sw_joint` - Move to Terrorists.
 
 ### Creating A Pull Request 😃
 
